@@ -1,7 +1,7 @@
 name = "polyglot_formalisms"
 version = "0.2.0"
 description = "Gleam implementation of PolyglotFormalisms Common Library"
-licences = ["PMPL-1.0-or-later"]
+licences = ["Apache-2.0"]
 repository = { type = "github", user = "hyperpolymath", repo = "polyglot_formalisms_gleam" }
 
 [dependencies]
